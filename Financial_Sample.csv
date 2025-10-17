@@ -1,4 +1,4 @@
-Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts, Sales,COGS,Profit,Date,Month Number,Month Name,Year
+Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts,Sales,COGS,Profit,Date,Month Number,Month Name,Year
 Government,Canada,Carretera,None,1618.5,3,20,32370.0,0.0,32370.0,16185.0,16185.0,2014-01-01,1,January,2014
 Government,Germany,Carretera,None,1321.0,3,20,26420.0,0.0,26420.0,13210.0,13210.0,2014-01-01,1,January,2014
 Midmarket,France,Carretera,None,2178.0,3,15,32670.0,0.0,32670.0,21780.0,10890.0,2014-06-01,6,June,2014
@@ -699,3 +699,4 @@ Small Business,Mexico,Amarilla,High,546.0,260,300,163800.0,24570.0,139230.0,1365
 Government,Mexico,Montana,High,1368.0,5,7,9576.0,1436.4,8139.6,6840.0,1299.6000000000004,2014-02-01,2,February,2014
 Government,Canada,Paseo,High,723.0,10,7,5061.0,759.1500000000001,4301.85,3615.0,686.8500000000001,2014-04-01,4,April,2014
 Channel Partners,United States of America,VTT,High,1806.0,250,12,21672.0,3250.8,18421.2,5418.0,13003.2,2014-05-01,5,May,2014
+
